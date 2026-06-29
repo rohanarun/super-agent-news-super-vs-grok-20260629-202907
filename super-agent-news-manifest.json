@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[techtimes.com](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1lEbWRmc2dvY0dBVWpfeEIyUG9QbVdISkMxY25ObkxQYld1cTZFel9uM1ZHZEhsSUhfMU16X09qWjM0TDFHdE41aUF0TTV0R0ZfX0E0cnRFUWg5bS1PZV9yaUNxVnhrU1VZam1wNmZScG05SE1fWGk3YU5DSGM4X0tPeHNlc2tNcHlMbFF0djFIY19oZjk1WWZhS2lsMUkwTnZReGthUTBRWlEyM3FianladTlzRTJqWVBScGhTQVlaTGpzWU1Yb2RDVGZJWFM2NWxN?oc=5)",
+    "[cryptobriefing.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE5jSU9MMlVMdGlMUlF4UjdLQndUMlF4T1hPa3hHMWlPVUpXaExGNmlEZkJsTkJ3ZGxKQ2FMWjRXSGFPVnJRVGM2d2pIb0syYjc2X3cxd3VQQ0xrV2pKWjJaMXplOGxpZkgwb1BzLW5qZklNaEE?oc=5)",
+    "[memeburn.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5)",
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5)",
+    "[wsj.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPYTdiR25EYWZnWGNJQ1hiaHdFQ1daN29ibFIxQlB4bjRwSTJwRkZVUF93MGhlcVV2UWtQNWU2OVRqMklXS1ljc1M5Q2dEUHJaX3FVLU5ZLUQ4dGhGaTVyemxPaWdrdDlkZC1zNUhPeF9wQndOR3VJQjNJb1p3c1dVNTRhc0xyWlhYeExqYjNna1FRMmRON01McVF1TWZqYzRJeGVPVA?oc=5)"
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_math=1120px 2\u20133 lines; bento_density=grid-auto-flow:dense; label_sweep=all competitors mentioned; button_contrast=pass",
+  "generated_at": "2026-06-29T20:29:13.996458+00:00",
+  "headline": "Super vs Grok",
+  "site_brief": {
+    "audience": "people comparing Super with Grok",
+    "competitor": "Grok",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Grok. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Grok AI agent",
+      "Grok AI assistant",
+      "Grok automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-grok",
+    "title": "Super vs Grok"
+  },
+  "summary": "A fair, editorial comparison for people choosing between Super and Grok. Grok is advancing fast with agents, voice APIs, and private betas, while Super focuses on dependable computer-use agents that can reuse a computer-use cache to make repeated workflows cheaper and steadier over time."
+}
